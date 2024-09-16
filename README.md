@@ -11,7 +11,7 @@
 I'm a passionate developer with experience in various fields such as web development, mobile development, UI/UX design, and game development. Currently, I'm focused on artificial intelligence  and always excited to learn new technologies and work on challenging projects.
 
 - 🌱 I’m currently learning: 
-unity
+godot
 - 👯 I’m looking to collaborate on: game development, ai project
 - 💬 Ask me about:
 anything but politics 
