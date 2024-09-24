@@ -26,7 +26,7 @@ am currently learning game development after 8 years of programming which it was
 
 ### 💻 Web Development
 - HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
-- Django, Flask, Firebase
+- Django, Flask, Firebase, FastAPI
 
 ### 📱 Mobile Development
 - Flutter, Dart
@@ -36,10 +36,10 @@ am currently learning game development after 8 years of programming which it was
 - Figma, Adobe XD, Canva
 
 ### 🖥️ Desktop Development
-- Python, C#
+- Python, C#, Flutter
 
 ### 💾 Databases
-- MySQL, Firebase Firestore, SQLite, PostgreSQL
+- MySQL, Firebase Firestore, SQLite, PostgreSQL, MongoDB
 
 ### 🔐 Penetration Testing
 - Wireshark, Burp Suite, Metasploit
