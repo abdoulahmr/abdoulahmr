@@ -36,13 +36,11 @@ am currently learning game development after 8 years of programming which it was
 - Figma, Adobe XD, Canva
 
 ### 🖥️ Desktop Development
-- Python, C#, Flutter
+- Python, C#, Flutter, Electron
 
 ### 💾 Databases
 - MySQL, Firebase Firestore, SQLite, PostgreSQL, MongoDB
 
-### 🔐 Penetration Testing
-- Wireshark, Burp Suite, Metasploit
 
 ## 🌟 Projects
 
