@@ -11,14 +11,14 @@
 I'm a passionate developer with experience in various fields such as web development, mobile development, UI/UX design, and game development. Currently, I'm focused on artificial intelligence  and always excited to learn new technologies and work on challenging projects.
 
 - 🌱 I’m currently learning: 
-godot
+Machine learning
 - 👯 I’m looking to collaborate on: game development, ai project
 - 💬 Ask me about:
 anything but politics 
 - 📫 How to reach me:
 lahmarabdessalem10@gmail.com
 - ⚡ Fun fact: 
-am currently learning game development after 8 years of programming which it was the thing that got me to the field the first time
+  With great power come a big electricity bill
 
 ## 🛠️ Skills
 - Problem solving 
