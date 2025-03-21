@@ -25,7 +25,7 @@ lahmarabdessalem10@gmail.com
 - Team management 
 
 ### 💻 Web Development
-- HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
+- HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, ReactJs
 - Django, Flask, Firebase, FastAPI
 
 ### 📱 Mobile Development
