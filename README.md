@@ -12,7 +12,7 @@ I'm a passionate developer with experience in various fields such as web develop
 
 - 🌱 I’m currently learning: 
 Machine learning
-- 👯 I’m looking to collaborate on: game development, ai project
+- 👯 I’m looking to collaborate on: ai project
 - 💬 Ask me about:
 anything but politics 
 - 📫 How to reach me:
