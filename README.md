@@ -4,7 +4,7 @@
 <!-- Social media links (Optional) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdessalem_Lahmar-blue)](https://www.linkedin.com/in/lahmar-abdessalem-92189a2a4)
 [![Instagram](https://img.shields.io/badge/Instagram-lahmar_abdessalem-pink)](https://www.instagram.com/lahmar_abdessalem?igsh=MXNtNm03bGVlZHNsdQ==)
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.abdoulahmar.com-orange)]((https://vercel.com/abdous-projects-65091452))
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.abdoulahmar.com-orange)](https://vercel.com/abdous-projects-65091452)
 
 ## 🚀 About Me
 
