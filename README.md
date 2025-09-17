@@ -1,68 +1,74 @@
+# Hi there, I'm Lahmar Abdessalem! A.I. Enthusiast & Full-Stack Developer 🤖💻
 
-# Hi there, I'm Lahmar Abdessalem! 👋
-
-<!-- Social media links (Optional) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdessalem_Lahmar-blue)](https://www.linkedin.com/in/lahmar-abdessalem-92189a2a4)
-[![Instagram](https://img.shields.io/badge/Instagram-lahmar_abdessalem-pink)](https://www.instagram.com/lahmar_abdessalem?igsh=MXNtNm03bGVlZHNsdQ==)
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.abdoulahmar.com-orange)](https://abdoulahmar.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-lahmar_abdessalem-pink)](https://www.instagram.com/lahmar_abdessalem?igsh=MXNtNm03bGVlZHNsdQ==)
 
-## 🚀 About Me
+---
 
-I'm a passionate developer with experience in various fields such as web development, mobile development, UI/UX design, and game development. Currently, I'm focused on artificial intelligence  and always excited to learn new technologies and work on challenging projects.
+## 🧠 About Me: Shifting Focus to A.I.
 
-- 🌱 I’m currently learning: 
-Machine learning
-- 👯 I’m looking to collaborate on: ai project
-- 💬 Ask me about:
-anything but politics 
-- 📫 How to reach me:
-lahmarabdessalem10@gmail.com
-- ⚡ Fun fact: 
-  With great power come a big electricity bill
+I'm a passionate developer with a strong foundation in **full-stack web and mobile development**, backed by experience in UI/UX design and game development.
 
-## 🛠️ Skills
-- Problem solving 
-- Team management 
+I'm currently channeling my diverse skill set into the fascinating world of **Artificial Intelligence and Machine Learning**. I'm actively pursuing projects that merge my development background with cutting-edge AI technologies, and I'm always open to exploring innovative solutions.
 
-### 💻 Web Development
-- HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, ReactJs
-- Django, Flask, Firebase, FastAPI
+- 🎯 **Current Focus:** Deep learning, Computer Vision, and Generative AI.
+- 🌱 **I’m currently learning:** **PyTorch**, **TensorFlow**, and advanced data science techniques.
+- 🤝 **I’m looking to collaborate on:** AI/ML projects, especially those involving practical application of models.
+- 💬 **Ask me about:** Python, AI development tools, full-stack architecture, or anything related to building complex applications.
+- 📫 **How to reach me:** lahmarabdessalem10@gmail.com
+- ⚡ **Fun fact:** With great power comes a big electricity bill, and even bigger computational power for training models!
 
-### 📱 Mobile Development
-- Flutter, Dart
-- Firebase, Google Cloud Messaging
+---
 
-### 🎨 UI/UX Design
-- Figma, Adobe XD, Canva
+## 🛠️ My Technical Stack & Skills
 
-### 🖥️ Desktop Development
-- Python, C#, Flutter, Electron
+My development skills provide a solid engineering base for my work in AI.
 
-### 💾 Databases
-- MySQL, Firebase Firestore, SQLite, PostgreSQL, MongoDB
+### 📊 Artificial Intelligence & Data Science
+- **Languages:** Python (Primary), R (Basic)
+- **ML Frameworks:** **PyTorch** (Learning), **TensorFlow/Keras** (Learning), Scikit-learn
+- **Data & Tools:** NumPy, Pandas, Matplotlib, Jupyter Notebooks
 
+### 💻 Core Development
+- **Web:** HTML, CSS, **JavaScript**, **ReactJs**, Django, Flask, FastAPI
+- **Mobile:** **Flutter**, Dart
+- **Databases:** PostgreSQL, **MongoDB**, Firebase Firestore, MySQL, SQLite
+- **Tools & Platform:** **Git/GitHub**, Docker (Basic), Firebase
 
-## 🌟 Projects
+### ⭐ Other Skills
+- **Problem Solving** & Algorithmic Thinking
+- Team Management & Collaboration
+- UI/UX Design (Figma, Adobe XD)
 
-   ### 1. [COVID Vaccination Manager](https://github.com/abdoulahmr/University-Covid-Vaccin-Manager)
-   - Platform  for managing COVID-19 vaccination among students, teachers and university workers. Built with flask and sqlite.
+---
 
-   ### 2. [DVIBES](https://github.com/abdoulahmr/Dvibes)
-   - The first Algerian musical platform that offer musical courses.Built with flask and sqlite.
+## 🌟 Featured Projects
 
-   ### 3. [SELAA Express](https://github.com/abdoulahmr/SELAA_V2)
-   - Platform that link local business with suppliers in algeria. Built with flutter and firebase.
+These projects showcase my development experience, and I'm currently working on transitioning these skills into AI-driven solutions.
 
-## 📈 GitHub Stats
+### 1. [DVIBES](https://github.com/abdoulahmr/Dvibes)
+- The first Algerian musical platform that offers musical courses. Built with Flask and SQLite. *Focus: Full-Stack Development, E-learning platform architecture.*
 
-   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdoulahmr&show_icons=true&theme=radical)
+### 2. [SELAA Express](https://github.com/abdoulahmr/SELAA_V2)
+- A platform linking local businesses with suppliers in Algeria. Built with Flutter and Firebase. *Focus: Mobile Development, Real-Time Database Integration.*
 
-## 🏆 GitHub Trophies
+### 3. [COVID Vaccination Manager](https://github.com/abdoulahmr/University-Covid-Vaccin-Manager)
+- Platform for managing COVID-19 vaccination among university personnel. Built with Flask and SQLite. *Focus: Backend Development, Data Management.*
 
-   ![trophy](https://github-profile-trophy.vercel.app/?username=abdoulahmr&theme=onedark)
+---
 
-## 🔗 Connect with Me
+## 📈 GitHub Activity
 
-   - [Portfolio](https://abdoulahmr.github.io/portfolio/)
-   - [LinkedIn](https://dz.linkedin.com/in/lahmar-abdessalem-92189a2a4)
-         
+| GitHub Stats | Trophies |
+| :---: | :---: |
+| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdoulahmr&show_icons=true&theme=radical) | ![trophy](https://github-profile-trophy.vercel.app/?username=abdoulahmr&theme=onedark) |
+
+---
+
+## 🔗 Let's Connect!
+
+I'm excited to connect with fellow developers and AI enthusiasts. Feel free to reach out to discuss potential projects or new technologies!
+
+- [**Portfolio**](https://abdoulahmar.vercel.app/) (Check out my work!)
+- [**LinkedIn**](https://www.linkedin.com/in/lahmar-abdessalem-92189a2a4)
