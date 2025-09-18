@@ -43,20 +43,7 @@ My development skills provide a solid engineering base for my work in AI.
 
 ---
 
-## 🌟 Featured Projects
 
-These projects showcase my development experience, and I'm currently working on transitioning these skills into AI-driven solutions.
-
-### 1. [DVIBES](https://github.com/abdoulahmr/Dvibes)
-- The first Algerian musical platform that offers musical courses. Built with Flask and SQLite. *Focus: Full-Stack Development, E-learning platform architecture.*
-
-### 2. [SELAA Express](https://github.com/abdoulahmr/SELAA_V2)
-- A platform linking local businesses with suppliers in Algeria. Built with Flutter and Firebase. *Focus: Mobile Development, Real-Time Database Integration.*
-
-### 3. [COVID Vaccination Manager](https://github.com/abdoulahmr/University-Covid-Vaccin-Manager)
-- Platform for managing COVID-19 vaccination among university personnel. Built with Flask and SQLite. *Focus: Backend Development, Data Management.*
-
----
 
 ## 📈 GitHub Activity
 
